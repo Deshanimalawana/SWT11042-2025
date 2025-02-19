@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 int main() {
 
   printf("Welcome to the fundamentals of programming Session");
